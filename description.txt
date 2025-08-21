@@ -1,0 +1,4 @@
+Challenge Type Forensics 
+Title: Secret Message
+Decription: Morse??
+Point: 150
